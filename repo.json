@@ -1,0 +1,23 @@
+{
+    "name": "Piloto Repo",
+    "subtitle": "A ipa repo",
+    "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/Icon.PNG",
+    "website": "https://tuputamadremaricon.github.io/pilotorepo.github.io/repo.json",
+    "sourceURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/repo.json",
+    "tintColor": "1A73E8",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "Telegram Extra",
+            "bundleIdentifier": "org.telegramextra.messenger.ios",
+            "developerName": "Piloto",
+            "version": "666",
+            "versionDate": "2025-06-09",
+            "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/Ipas/TelegramExtra.ipa",
+            "localizedDescription": "Telegram Tweak by Piloto.",
+            "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/TelegramExtra.PNG",
+            "size": 85983232,
+            "screenshotURLs": []
+        }
+    ]
+}
