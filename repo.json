@@ -1,35 +1,24 @@
 {
     "name": "Piloto Repo",
-    "subtitle": "A ipa repo",
-    "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/Icon.PNG",
-    "website": "https://tuputamadremaricon.github.io/pilotorepo.github.io/repo.json",
-    "sourceURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/repo.json",
-    "tintColor": "1A73E8",
-    "featuredApps": [],
+    "identifier": "com.piloto.repo",
     "apps": [
         {
             "name": "Telegram Extra",
             "bundleIdentifier": "org.telegramextra.messenger.ios",
-            "developerName": "Piloto",
             "version": "666",
-            "versionDate": "2025-06-09",
             "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/Ipas/TelegramExtra.ipa",
             "localizedDescription": "Telegram Tweak by Piloto.",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/TelegramExtra.PNG",
-            "size": 85983232,
-            "screenshotURLs": []
+            "size": 85983232
         },
         {
             "name": "zSign",
             "bundleIdentifier": "com.zsign.app",
-            "developerName": "Piloto",
             "version": "1.6.2",
-            "versionDate": "2025-06-09",
             "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/zSign/Zsign_1.6.ipa",
             "localizedDescription": "zSign Ipa Signer",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/zSign.PNG",
-            "size": 12000000,
-            "screenshotURLs": []
+            "size": 12000000
         }
     ]
 }
