@@ -5,8 +5,8 @@
         {
             "name": "Telegram Extra",
             "bundleIdentifier": "org.telegramextra.messenger.ios",
+            "developerName": "Piloto",
             "version": "666",
-            "author": "Piloto",
             "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/Ipas/TelegramExtra.ipa",
             "localizedDescription": "Telegram Tweak by Piloto.",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/TelegramExtra.PNG",
@@ -15,8 +15,8 @@
         {
             "name": "zSign",
             "bundleIdentifier": "com.zsign.app",
+            "developerName": "Piloto",
             "version": "1.6.2",
-            "author": "Piloto",
             "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/zSign/Zsign_1.6.ipa",
             "localizedDescription": "zSign Ipa Signer",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/zSign.PNG",
