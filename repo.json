@@ -1,1 +1,10 @@
-
+{
+    "name": "Piloto Repo",
+    "subtitle": "A ipa repo",
+    "iconURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/blob/main/Icon.PNG",
+    "website": "https://tuputamadremaricon.github.io/pilotorepo.github.io/",
+    "sourceURL": "https://tuputamadremaricon.github.io/pilotorepo.github.io/repo.json",
+    "tintColor": "1A73E8",
+    "featuredApps": [],
+    "apps": []
+}
