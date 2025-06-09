@@ -1,5 +1,7 @@
 {
     "name": "Piloto Repo",
+    "website": "https://tuputamadremaricon.github.io/pilotorepo.github.io/",
+    "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/Icon.PNG",
     "identifier": "com.piloto.repo",
     "apps": [
         {
