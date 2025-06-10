@@ -25,6 +25,17 @@
             "localizedDescription": "zSign Ipa Signer",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/zSign.PNG",
             "size": 12000000
+        },
+        {
+            "name": "YouTube OLED",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Piloto",
+            "version": "20.18.4",
+            "versionDate": "2025-06-10",
+            "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/YouTubeOLED/YouTube.ipa",
+            "localizedDescription": "Youtube Premium Tweak",
+            "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/YouTube.PNG",
+            "size": 116300000
         }
     ]
 }
