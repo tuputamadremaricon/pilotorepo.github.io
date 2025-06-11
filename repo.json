@@ -47,6 +47,17 @@
             "localizedDescription": "Instagram Injected Regram Cracked",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/Instagram.PNG",
             "size": 200900000
+        },
+        {
+            "name": "Esign NoLogs",
+            "bundleIdentifier": "nologs.xyz.yyyue.esign",
+            "developerName": "Piloto",
+            "version": "5.0.0",
+            "versionDate": "2025-06-11",
+            "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/Esign/ESign.ipa",
+            "localizedDescription": "Esign with no Logs",
+            "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/Esign.PNG",
+            "size": 8000000
         }
     ]
 }
