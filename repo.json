@@ -69,6 +69,17 @@
             "localizedDescription": "Gbox ipa Signer",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/Gbox.PNG",
             "size": 6430000
+        },
+        {
+            "name": "Minecraft",
+            "bundleIdentifier": "com.mojang.minecraftpe",
+            "developerName": "Piloto",
+            "version": "1.21.60",
+            "versionDate": "2025-06-11",
+            "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/Minecraft/Minecraft.ipa",
+            "localizedDescription": "Free Minecraft Requested by my gf",
+            "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/Minecraft.PNG",
+            "size": 504000000
         }
     ]
 }
