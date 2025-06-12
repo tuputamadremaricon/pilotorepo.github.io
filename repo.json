@@ -80,6 +80,17 @@
             "localizedDescription": "Free Minecraft Requested by my gf",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/Minecraft.PNG",
             "size": 504000000
+        },
+        {
+            "name": "VideoStar Pro",
+            "bundleIdentifier": "com.frontierdesign.videostar",
+            "developerName": "Piloto",
+            "version": "14.2.1",
+            "versionDate": "2025-06-11",
+            "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/Videostar/Video.Star.ipa",
+            "localizedDescription": "VideoStar Pro Tweak",
+            "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/VideoStar.PNG",
+            "size": 272000000
         }
     ]
 }
