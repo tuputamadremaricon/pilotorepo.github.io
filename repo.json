@@ -92,6 +92,17 @@
             "localizedDescription": "VideoStar Pro Tweak",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/VideoStar.PNG",
             "size": 272000000
+        },
+        {
+            "name": "Alight Motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "developerName": "Piloto",
+            "version": "6.2.25",
+            "versionDate": "2025-06-14",
+            "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/AlightMotion/AlightMotion.ipa",
+            "localizedDescription": "Alight Motion Pro Tweak",
+            "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/AlightMotion.PNG",
+            "size": 110000000
         }
     ]
 }
