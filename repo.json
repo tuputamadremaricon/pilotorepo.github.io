@@ -103,6 +103,17 @@
             "localizedDescription": "Alight Motion Pro Tweak",
             "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/AlightMotion.PNG",
             "size": 110000000
+        },
+        {
+            "name": "Bound",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Piloto",
+            "version": "250.0",
+            "versionDate": "2025-06-21",
+            "downloadURL": "https://github.com/tuputamadremaricon/pilotorepo.github.io/releases/download/Bound/Bound-NoTrackRC1.ipa",
+            "localizedDescription": "Discord Tweak",
+            "iconURL": "https://raw.githubusercontent.com/tuputamadremaricon/pilotorepo.github.io/main/icons/Bound.PNG",
+            "size": 90440000
         }
     ]
 }
